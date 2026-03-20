@@ -3,7 +3,7 @@
 	[
 		{
 			"src": "/(.*)",
-			"dest": "django_labs/wsgi.py"
+			"dest": "mysite/wsgi.py"
 		}
 	]
 }
